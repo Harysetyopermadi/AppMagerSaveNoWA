@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Mager Save No Wa</string>
+    <string name="app_name">Mager Save Wa</string>
+    <string name="title">Kirim Pesan Ke WhatsApp Tanpa Simpan Nomor</string>
+    <string name="insert_phone_number">Masukan Nomor Telphone</string>
+    <string name="chat_to_whatsapp">Chat Ke WhatsApp</string>
+    <string name="insert_number">Masukan Nomor</string>
 </resources>
